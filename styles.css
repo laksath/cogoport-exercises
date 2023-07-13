@@ -1,0 +1,40 @@
+h1{
+    margin-right: auto;
+}
+
+.parent{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row{
+    justify-content: center;
+    display: flex;
+}
+
+.ans_screen{
+    width: 250px;
+}
+
+#ans{
+    width: 100%;
+}
+
+.row div{
+    margin: 10px;
+}
+
+#screen{
+    width: 160px;
+}
+
+button{
+    padding: 10px;
+    margin: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: gray;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

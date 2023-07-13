@@ -1,1 +1,0 @@
-All the exercises given at cogoport live session is uploaded here for references in the future.
